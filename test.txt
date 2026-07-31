@@ -1,0 +1,38 @@
+Media buyer form
+#	Field Name	Field Type
+===================================
+1. Campaign Title - Text Field
+2. In Market Dates (Campaign Start & End) - Date Picker (Start Date & End Date)
+3. Campaign Objective - Textarea
+4. Ad Creative Availability Date - Date Picker
+5. Target Audience - Checkbox Group
+6. Target market / regions - Textarea
+7. Media objectives - Checkbox Group
+8. Required Ad Formats - Checkbox Group
+9. Ad specifications  - Textarea
+10. Placement Preferences -	Checkbox Group 
+11. Additional Partnership Opportunities -	Checkbox Group 
+
+Publishers’ form
+
+#	Field Name	Field Type
+======================================
+1.	Publication Title -	Text Field
+2.	Contact  - 	 Text Field
+3.	Email - 	Email Field
+4.	Phone -	Phone Field
+5.	Website URL	- Text Field
+6.	Link to Rate Card - Text Field
+7.  Why is your publication an ideal partner for this campaign? - 	Textarea (200-word limit)
+8.	Describe Your Primary Audience - 	Textarea
+9.	What percentage of your audience aligns with the campaign target audience? - Number Field (%)
+10.	What geographic markets do you serve - Textarea
+11.	Is your audience primarily : Radio Buttons
+12.	Print Circulation -	Number Field
+13.	Total Readership -	Number Field
+14.	Total Monthly Website Unique Visitors -	Number Field
+15.	Total Monthly Page Views -	Number Field
+16.	Newsletter Subscribers -	Number Field
+17.	Social media platform total followers -	Checkbox Group
+18.	Are there any editorial environments, sections or features particularly relevant to this campaign? -  Textarea
+19.	Indicate which opportunities you can offer - Checkbox Group
